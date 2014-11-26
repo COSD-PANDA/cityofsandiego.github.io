@@ -1,0 +1,125 @@
+{
+    "timeline":
+    {
+        "headline":"San Diego Open Data",
+        "type":"default",
+        "text":"<p>Open Data in San Diego</p>",
+        "asset": {
+            "media":"http://executivemba.wharton.upenn.edu/wp-content/uploads/2014/09/San-Diego.jpg",
+            "credit":"Wharton Upenn"
+        },
+        "date": [
+            {
+                "startDate":"2013,07,10",
+                "endDate": "2013,07,10",
+                "headline":"Select Chief Data Officer",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "tag":"This is Optional",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2015,01,01",
+                "endDate": "2015,03,31",
+                "headline":"Written Guidelines on Preparing Inventory of Public Data Sets.",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2015,04,01",
+                "endDate": "2015,07,01",
+                "headline":"Depts. Develop Initial Data Inventory",
+                "text":"<p>Upon Receiving guidelines on Preparing Inventory, each City Department will assemble an initial inventory of data owned or managed by department.  CDO will compile this into a report by July 1, 2015.</p>",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2015,04,01",
+                "endDate": "2015,07,01",
+                "headline":"Technical Guidelines Manual",
+                "text":"<p>As the departments prepare their inventory, the CDO will issue a Technical Guidelines Manual</p>",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2015,07,01",
+                "headline":"Initial Written Status Report",
+                "text":"<p>Within 180 Days of the effective date, CDO shall submit an initial written status report.</p>",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2016,01,01",
+                "headline":"CDO will Update the Status Report.",
+                "text":"<p>The report will be submitted yearly on January 1</p>",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2016,01,01",
+                "headline":"CDO will Update the Status Report.",
+                "text":"<p>The report will be submitted yearly on January 1</p>",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2016,07,01",
+                "headline":"Begin Publishing Data Sets",
+                "text":"<p>Within 18 months of the Policy Effective Date, or by July 1, 2016, the City will begin to publish high value Public Data Sets to its portal. </p>"
+                
+            },
+            {
+                "startDate":"2016,07,01",
+                "headline":"CDO Submits Compliance Plan",
+                "text":"<p>Within 18 Months of the effective date (July 1, 2016), CDO submits Compliance plan; Recur yearly on July 1.</p>",
+                "asset": {
+                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            }
+
+
+        ],
+        "era": [
+            {
+                "startDate":"2013,07,10",
+                "endDate":"2011,12,11",
+                "headline":"Headline Goes Here2",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "tag":"This is Optional"
+            }
+
+        ]
+    }
+}
