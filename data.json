@@ -5,33 +5,26 @@
         "type":"default",
         "text":"<p>Open Data in San Diego</p>",
         "asset": {
-            "media":"http://executivemba.wharton.upenn.edu/wp-content/uploads/2014/09/San-Diego.jpg",
+            "media":"/img/sd.jpg",
             "credit":"Wharton Upenn"
         },
         "date": [
             {
-                "startDate":"2013,07,10",
-                "endDate": "2013,07,10",
+                "startDate": "2014,11,24",
                 "headline":"Select Chief Data Officer",
-                "text":"<p>Body text goes here, some HTML is OK</p>",
-                "tag":"This is Optional",
                 "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
+                    "media":"/img/linkedinmrm.png",
+                    "thumbnail":"/img/linkedinmrm.png"
                 }
             },
             {
                 "startDate":"2015,01,01",
                 "endDate": "2015,03,31",
                 "headline":"Written Guidelines on Preparing Inventory of Public Data Sets.",
-                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "text":"<p>CDO will prepare guidelines to instruct departments how to conduct an initial inventory of data sets.</p>",
                 "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
                 }
             },
             {
@@ -40,10 +33,8 @@
                 "headline":"Depts. Develop Initial Data Inventory",
                 "text":"<p>Upon Receiving guidelines on Preparing Inventory, each City Department will assemble an initial inventory of data owned or managed by department.  CDO will compile this into a report by July 1, 2015.</p>",
                 "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
+                    "thumbnail":"/img/z.jpg",
+                    "media":"/img/z.jpg"
                 }
             },
             {
@@ -52,10 +43,8 @@
                 "headline":"Technical Guidelines Manual",
                 "text":"<p>As the departments prepare their inventory, the CDO will issue a Technical Guidelines Manual</p>",
                 "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
+                    "media":"/img/icon_tech.png",
+                    "thumbnail":"/img/icon_tech.png"
                 }
             },
             {
@@ -63,10 +52,8 @@
                 "headline":"Initial Written Status Report",
                 "text":"<p>Within 180 Days of the effective date, CDO shall submit an initial written status report.</p>",
                 "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
+                    "media":"/img/euro_gauges.jpg",
+                    "thumbnail":"/img/euro_gauges.jpg"
                 }
             },
             {
@@ -74,38 +61,26 @@
                 "headline":"CDO will Update the Status Report.",
                 "text":"<p>The report will be submitted yearly on January 1</p>",
                 "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
-                }
-            },
-            {
-                "startDate":"2016,01,01",
-                "headline":"CDO will Update the Status Report.",
-                "text":"<p>The report will be submitted yearly on January 1</p>",
-                "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
+                    "media":"/img/jan1.jpg",
+                    "thumbnail":"/img/jan1.jpg"
                 }
             },
             {
                 "startDate":"2016,07,01",
                 "headline":"Begin Publishing Data Sets",
-                "text":"<p>Within 18 months of the Policy Effective Date, or by July 1, 2016, the City will begin to publish high value Public Data Sets to its portal. </p>"
-                
+                "text":"<p>Within 18 months of the Policy Effective Date, or by July 1, 2016, the City will begin to publish high value Public Data Sets to its portal. </p>",
+                "asset": {
+                    "media":"/img/data.jpg",
+                    "thumbnail":"/img/data.jpg"
+                }
             },
             {
                 "startDate":"2016,07,01",
                 "headline":"CDO Submits Compliance Plan",
                 "text":"<p>Within 18 Months of the effective date (July 1, 2016), CDO submits Compliance plan; Recur yearly on July 1.</p>",
                 "asset": {
-                    "media":"http://www.wolaver.org/Space/Lagoon2.jpg",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
+                    "media":"/img/gears.png",
+                    "thumbnail":"/img/gears.png"
                 }
             }
 
