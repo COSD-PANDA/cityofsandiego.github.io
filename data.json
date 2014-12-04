@@ -10,7 +10,7 @@
         },
         "date": [
             {
-                "startDate": "2013,07,10",
+                "startDate": "2013,03,10",
                 "headline":"Code For America Presentation to City Concil Committees",
                 "asset": {
                     "media":"/img/cfa.png",
@@ -84,13 +84,14 @@
             {
                 "startDate": "2014,11,24",
                 "headline":"Select Chief Data Officer",
+                "text": "Reviewed Open Data Policy",
                 "asset": {
                     "media":"/img/linkedinmrm.png",
                     "thumbnail":"/img/linkedinmrm.png"
                 }
             },
             {
-                "startDate": "2014,11,24",
+                "startDate": "2014,12,16",
                 "headline":"Vote on Open Data Policy",
                 "asset": {
                     "media":"/img/vote.jpg",
@@ -162,7 +163,17 @@
                     "media":"/img/gears.png",
                     "thumbnail":"/img/gears.png"
                 }
+            },
+            {
+                "startDate":"2019,07,01",
+                "headline":"Open Data Policy Full Implementation.",
+                "asset": {
+                    "media":"/img/gears.png",
+                    "thumbnail":"/img/gears.png"
+                }
             }
+
+
 
         ]
     }
