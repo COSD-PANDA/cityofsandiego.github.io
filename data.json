@@ -11,11 +11,19 @@
         "date": [
             {
                 "startDate": "2013,07,10",
-                "headline":"Open San Diego / Code For America brigade presentation",
-                "text": "<ul><li>Committee asks IBA to prepare report</li><li>Open San Diego / Code For America brigade presentation</li></ul>",
+                "headline":"Code For America Presentation to City Concil Committees",
                 "asset": {
                     "media":"/img/cfa.png",
                     "thumbnail":"/img/cfa.png"
+                }
+            },
+            {
+                "startDate": "2013,07,10",
+                "headline":"ED&IR Committee asks IBA to prepare report.",
+                "text": "<ul><li>Committee asks IBA to prepare report</li><li>Open San Diego / Code For America brigade presentation</li></ul>",
+                "asset": {
+                    "media":"/img/lightner.jpg",
+                    "thumbnail":"/img/lightner.jpg"
                 }
             },
             {
