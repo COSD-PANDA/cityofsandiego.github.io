@@ -10,11 +10,83 @@
         },
         "date": [
             {
+                "startDate": "2013,07,10",
+                "headline":"Open San Diego / Code For America brigade presentation",
+                "text": "<ul><li>Committee asks IBA to prepare report</li><li>Open San Diego / Code For America brigade presentation</li></ul>",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate": "2013,09,18",
+                "headline": "Draft Open Data Policy",
+                "text":"Councilman Kersey releases draft open data policy based on NYC's Policy.",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate": "2013,11,06",
+                "headline": "IBA report on considerations of adoption an Open Data Policy.",
+                "text":"<p>Recommends forming an Open Data Advisory Group and quickly hiring a Chief Data Officer.</p><p>Estimates an investment range of $150,000 (minimum) to $1 Million (robust)</p>",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate": "2013,12,17",
+                "headline": "City Council Unanimously Adopts resolution R-308684.",
+                "text":"<p>Resolution declares that the City Council of the City of San Diego supports the creation of an Open Data Policy as well as formation of an Open Data Advisory Group to develop it.</p>",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate": "2014,01,10",
+                "headline": "Open Data Advisory Group formed.",
+                "text":"<p>Interim Mayor Gloria formed group via memo. The group is led by Jeff Sturak, DCOO Internal Operations.</p><p>City staff member participants from Council Districts 1 and 5, IBA, City Attorney, City Clerk, DoIT, Mayor’s Office, and Performance & Analytics</p><p>Public participants from Code for America, OpenSan Diego, Port of San Diego, and local technical experts</p>",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate": "2014,01,21",
+                "endDate": "2014,05,22",
+                "headline": "Open Data Advisory Group held six publically noticed meetings from January 21 to May 22, 2014.",
+                "text":"<p>With input from Huron Consulting and Sunlight Foundation, the group developed and proposed the policy and implementation plan.</p>",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate": "2014,07,01",
+                "headline":"Mayor Faulconer creates the Performance and Analytics Department",
+                "text": "Mayor Faulconer creating the Performance & Analytics Department to focus on citywide efficiency, accountability, and transparency initiatives on July 1, 2014.",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
                 "startDate": "2014,11,24",
                 "headline":"Select Chief Data Officer",
                 "asset": {
-                    "media":"/img/linkedinmrm.png",
-                    "thumbnail":"/img/linkedinmrm.png"
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate": "2014,11,24",
+                "headline":"Vote on Open Data Policy",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
                 }
             },
             {
@@ -40,8 +112,8 @@
             {
                 "startDate":"2015,04,01",
                 "endDate": "2015,07,01",
-                "headline":"Technical Guidelines Manual",
-                "text":"<p>As the departments prepare their inventory, the CDO will issue a Technical Guidelines Manual</p>",
+                "headline":"Technical Guidelines",
+                "text":"<p>As the departments prepare their inventory, the CDO will issue the Technical Guidelines</p>",
                 "asset": {
                     "media":"/img/icon_tech.png",
                     "thumbnail":"/img/icon_tech.png"
@@ -82,17 +154,6 @@
                     "media":"/img/gears.png",
                     "thumbnail":"/img/gears.png"
                 }
-            }
-
-
-        ],
-        "era": [
-            {
-                "startDate":"2013,07,10",
-                "endDate":"2011,12,11",
-                "headline":"Headline Goes Here2",
-                "text":"<p>Body text goes here, some HTML is OK</p>",
-                "tag":"This is Optional"
             }
 
         ]
