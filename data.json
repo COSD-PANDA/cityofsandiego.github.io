@@ -10,6 +10,14 @@
         },
         "date": [
             {
+                "startDate": "2013,04,29",
+                "headline":"Craft beer with Ben and Friends",
+                "asset": {
+                    "media":"/img/beer.jpg",
+                    "thumbnail":"/img/beer.jpg"
+                }
+            },
+            {
                 "startDate": "2013,03,10",
                 "headline":"Code For America Presentation to City Concil Committees",
                 "asset": {
