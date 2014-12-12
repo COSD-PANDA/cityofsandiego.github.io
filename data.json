@@ -10,15 +10,16 @@
         },
         "date": [
             {
-                   "startDate": "2013,02,23",
-                "headline":"Code Across America with City and Community Leaders",
+                "startDate": "2013,02,23",
+                "headline":"Code Across with City and Community Leaders",
                 "asset": {
                    "media":"/img/cfa.png",
                    "thumbnail":"/img/cfa.png"
                  }
-            }
-           {
-                   "startDate": "2013,02,29",
+            },
+            {
+                "startDate": "2013,02,29",
+                "startDate": "2013,02,29",
                 "headline":"Craft beer with Ben and Friends",
                 "asset": {
                     "media":"/img/beer.jpg",
