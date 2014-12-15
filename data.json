@@ -90,6 +90,14 @@
                 }
             },
             {
+                "startDate": "2014,07,02",
+                "headline":"ED & IR Committee unanimously approves Open Data Policy",
+                "asset": {
+                    "media":"/img/approve.jpg",
+                    "thumbnail":"/img/approve.jpg"
+                }
+            },
+            {
                 "startDate": "2014,11,24",
                 "headline":"Select Chief Data Officer",
                 "text": "Reviewed Open Data Policy",
