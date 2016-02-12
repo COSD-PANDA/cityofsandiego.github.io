@@ -154,15 +154,6 @@
                 }
             },
             {
-                "startDate":"2016,01,01",
-                "headline":"CDO will Update the Status Report.",
-                "text":"<p>The report will be submitted yearly on January 1</p>",
-                "asset": {
-                    "media":"/img/jan1.jpg",
-                    "thumbnail":"/img/jan1.jpg"
-                }
-            },
-            {
                 "startDate":"2016,07,01",
                 "headline":"Begin Publishing Data Sets",
                 "text":"<p>Within 18 months of the Policy Effective Date, or by July 1, 2016, the City will begin to publish high value Public Data Sets to its portal. </p>",
