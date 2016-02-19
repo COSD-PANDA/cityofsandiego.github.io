@@ -12,6 +12,7 @@
             {
                 "startDate": "2013,02,29",
                 "headline":"Craft beer with Ben and Friends",
+                "text":"Ben Katz hosts an after-hours meeting of local technologists and policy-makers to kick-off a conversation about bringing open data to San Diego",
                 "asset": {
                     "media":"/img/beer.jpg",
                     "thumbnail":"/img/beer.jpg"
@@ -20,6 +21,7 @@
             {
                 "startDate": "2013,03,10",
                 "headline":"Code For America Presentation to City Council Committees",
+                "text":"Jeff Johnson with the local Code for America Brigade makes presentations to City Council committees on Infrastructure as well as Economic Development & Intergovernmental Relations (ED&IR)",
                 "asset": {
                     "media":"/img/cfa.png",
                     "thumbnail":"/img/cfa.png"
@@ -83,7 +85,7 @@
             {
                 "startDate": "2014,07,01",
                 "headline":"Mayor Faulconer creates the Performance and Analytics Department",
-                "text": "Mayor Faulconer creating the Performance & Analytics Department to focus on citywide efficiency, accountability, and transparency initiatives on July 1, 2014.",
+                "text": "Mayor Faulconer creates the Performance & Analytics Department and taps Almis Udrys as its first Director to implement efficiency, accountability, and transparency initiatives.",
                 "asset": {
                     "media":"/img/mayor.jpg",
                     "thumbnail":"/img/mayor.jpg"
@@ -100,7 +102,7 @@
             {
                 "startDate": "2014,11,24",
                 "headline":"Select Chief Data Officer",
-                "text": "Reviewed Open Data Policy",
+                "text": "Maksim Pecherskiy hired as the first Chief Data Officer in the greater San Diego region.",
                 "asset": {
                     "media":"/img/linkedinmrm.png",
                     "thumbnail":"/img/linkedinmrm.png"
@@ -109,6 +111,7 @@
             {
                 "startDate": "2014,12,16",
                 "headline":"Vote on Open Data Policy",
+                "text":"City Council unanimously adopts the first Open Data Policy in the City and the only one in the greater San Diego region.",
                 "asset": {
                     "media":"/img/vote.jpg",
                     "thumbnail":"/img/vote.jpg"
@@ -135,22 +138,21 @@
                 }
             },
             {
-                "startDate":"2015,04,01",
-                "endDate": "2015,07,01",
-                "headline":"Technical Guidelines",
-                "text":"<p>As the departments prepare their inventory, the CDO will issue the Technical Guidelines</p>",
-                "asset": {
-                    "media":"/img/icon_tech.png",
-                    "thumbnail":"/img/icon_tech.png"
-                }
-            },
-            {
                 "startDate":"2015,07,01",
                 "headline":"Initial Written Status Report",
                 "text":"<p>Within 180 Days of the effective date, CDO shall submit an initial written status report.</p>",
                 "asset": {
                     "media":"/img/euro_gauges.jpg",
                     "thumbnail":"/img/euro_gauges.jpg"
+                }
+            },
+            {
+                "startDate":"2015,09,01",
+                "headline":"Andrell Bower joins Open Data Team",
+                "text":"<p>Open Data team doubles in size when Performance & Analytics hires the City's new information coordinator</p>",
+                "asset": {
+                    "media":"/img/andrell.jpg",
+                    "thumbnail":"/img/andrell.jpg"
                 }
             },
             {
