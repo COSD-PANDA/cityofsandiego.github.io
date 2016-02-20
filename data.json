@@ -29,8 +29,7 @@
             },
             {
                 "startDate": "2013,07,10",
-                "headline":"ED&IR Committee asks IBA to prepare report.",
-                "text": "<ul><li>Committee asks IBA to prepare report</li><li>Open San Diego / Code For America brigade presentation</li></ul>",
+                "headline":"ED&IR Committee asks Independent Budget Analyst (IBA) to prepare report.",
                 "asset": {
                     "media":"/img/lightner.jpg",
                     "thumbnail":"/img/lightner.jpg"
@@ -65,8 +64,8 @@
             },
             {
                 "startDate": "2014,01,10",
-                "headline": "Open Data Advisory Group formed.",
-                "text":"<p>Interim Mayor Gloria formed group via memo. The group is led by Jeff Sturak, DCOO Internal Operations.</p><p>City staff member participants from Council Districts 1 and 5, IBA, City Attorney, City Clerk, DoIT, Mayor’s Office, and Performance & Analytics</p><p>Public participants from Code for America, OpenSan Diego, Port of San Diego, and local technical experts</p>",
+                "headline": "Open Data Advisory Group.",
+                "text":"<p>Interim Mayor Todd Gloria forms group via memo. The group is led by Jeff Sturak, DCOO Internal Operations.</p><p>City staff member participants from Council Districts 1 and 5, IBA, City Attorney, City Clerk, DoIT, and the Mayor’s Office. </p><p>Public participants from Code for America, OpenSan Diego, Port of San Diego, and local technical experts</p>",
                 "asset": {
                     "media":"/img/dataweb.jpg",
                     "thumbnail":"/img/dataweb.jpg"
@@ -121,7 +120,7 @@
                 "startDate":"2015,01,01",
                 "endDate": "2015,03,31",
                 "headline":"Written Guidelines on Preparing Inventory of Public Data Sets.",
-                "text":"<p>CDO will prepare guidelines to instruct departments how to conduct an initial inventory of data sets.</p>",
+                "text":"<p>CDO prepares guidelines to instruct departments how to conduct an initial inventory of data sets.</p>",
                 "asset": {
                     "media":"/img/book.png",
                     "thumbnail":"/img/book.png"
@@ -130,17 +129,27 @@
             {
                 "startDate":"2015,04,01",
                 "endDate": "2015,07,01",
-                "headline":"Depts. Develop Initial Data Inventory",
-                "text":"<p>Upon Receiving guidelines on Preparing Inventory, each City Department will assemble an initial inventory of data owned or managed by department.  CDO will compile this into a report by July 1, 2015.</p>",
+                "headline":"Initial Data Inventory",
+                "text":"<p>The CDO assembles an initial inventory of data owned or managed by each department.</p>",
                 "asset": {
                     "thumbnail":"/img/z.jpg",
                     "media":"/img/z.jpg"
                 }
             },
             {
+                "startDate":"2015,04,01",
+                "endDate": "2015,07,01",
+                "headline":"Technical Guidelines",
+                "text":"<p>As the departments prepare their inventory, the CDO will issue the Technical Guidelines</p>",
+                "asset": {
+                  "media":"/img/icon_tech.png",
+                  "thumbnail":"/img/icon_tech.png"
+                }
+            },
+            {
                 "startDate":"2015,07,01",
                 "headline":"Initial Written Status Report",
-                "text":"<p>Within 180 Days of the effective date, CDO shall submit an initial written status report.</p>",
+                "text":"<p>CDO submits a status report on the inventory process.</p>",
                 "asset": {
                     "media":"/img/euro_gauges.jpg",
                     "thumbnail":"/img/euro_gauges.jpg"
@@ -148,8 +157,8 @@
             },
             {
                 "startDate":"2015,09,01",
-                "headline":"Andrell Bower joins Open Data Team",
-                "text":"<p>Open Data team doubles in size when Performance & Analytics hires the City's new information coordinator</p>",
+                "headline":"Open Data Team Doubles",
+                "text":"<p>Performance & Analytics hires Andrell Bower as the City’s Open Data Coordinator.</p>",
                 "asset": {
                     "media":"/img/andrell.jpg",
                     "thumbnail":"/img/andrell.jpg"
