@@ -1,0 +1,198 @@
+{
+    "timeline":
+    {
+        "headline":"San Diego Open Data",
+        "type":"default",
+        "text":"<p>Open Data in San Diego</p>",
+        "asset": {
+            "media":"/img/sd.jpg",
+            "credit":"Wharton Upenn"
+        },
+        "date": [
+            {
+                "startDate": "2013,02,29",
+                "headline":"Craft beer with Ben and Friends",
+                "text":"Ben Katz hosts an after-hours meeting of local technologists and policy-makers to kick-off a conversation about bringing open data to San Diego",
+                "asset": {
+                    "media":"/img/beer.jpg",
+                    "thumbnail":"/img/beer.jpg"
+                }
+            },
+            {
+                "startDate": "2013,03,10",
+                "headline":"Code For America Presentation to City Council Committees",
+                "text":"Jeff Johnson with the local Code for America Brigade makes presentations to City Council committees on Infrastructure as well as Economic Development & Intergovernmental Relations (ED&IR)",
+                "asset": {
+                    "media":"/img/cfa.png",
+                    "thumbnail":"/img/cfa.png"
+                }
+            },
+            {
+                "startDate": "2013,07,10",
+                "headline":"ED&IR Committee asks Independent Budget Analyst (IBA) to prepare report.",
+                "asset": {
+                    "media":"/img/lightner.jpg",
+                    "thumbnail":"/img/lightner.jpg"
+                }
+            },
+            {
+                "startDate": "2013,09,18",
+                "headline": "Draft Open Data Policy",
+                "text":"Councilman Kersey releases draft open data policy based on NYC's Policy.",
+                "asset": {
+                    "media":"/img/kersey.jpg",
+                    "thumbnail":"/img/kersey.jpg"
+                }
+            },
+            {
+                "startDate": "2013,11,06",
+                "headline": "IBA report on considerations of adoption an Open Data Policy.",
+                "text":"<p>Recommends forming an Open Data Advisory Group and quickly hiring a Chief Data Officer.</p><p>Estimates an investment range of $150,000 (minimum) to $1 Million (robust)</p>",
+                "asset": {
+                    "media":"/img/iba.png",
+                    "thumbnail":"/img/iba.png"
+                }
+            },
+            {
+                "startDate": "2013,12,17",
+                "headline": "City Council Unanimously Adopts resolution R-308684.",
+                "text":"<p>Resolution declares that the City Council of the City of San Diego supports the creation of an Open Data Policy as well as formation of an Open Data Advisory Group to develop it.</p>",
+                "asset": {
+                    "media":"/img/handsup.jpg",
+                    "thumbnail":"/img/handsup.jpg"
+                }
+            },
+            {
+                "startDate": "2014,01,10",
+                "headline": "Open Data Advisory Group.",
+                "text":"<p>Interim Mayor Todd Gloria forms group via memo. The group is led by Jeff Sturak, DCOO Internal Operations.</p><p>City staff member participants from Council Districts 1 and 5, IBA, City Attorney, City Clerk, DoIT, and the Mayor’s Office. </p><p>Public participants from Code for America, OpenSan Diego, Port of San Diego, and local technical experts</p>",
+                "asset": {
+                    "media":"/img/dataweb.jpg",
+                    "thumbnail":"/img/dataweb.jpg"
+                }
+            },
+            {
+                "startDate": "2014,01,21",
+                "endDate": "2014,05,22",
+                "headline": "Open Data Advisory Group held six publically noticed meetings from January 21 to May 22, 2014.",
+                "text":"<p>With input from Huron Consulting and Sunlight Foundation, the group developed and proposed the policy and implementation plan.</p>",
+                "asset": {
+                    "media":"/img/meeting.jpg",
+                    "thumbnail":"/img/meeting.jpg"
+                }
+            },
+            {
+                "startDate": "2014,07,01",
+                "headline":"Mayor Faulconer creates the Performance and Analytics Department",
+                "text": "Mayor Faulconer creates the Performance & Analytics Department and taps Almis Udrys as its first Director to implement efficiency, accountability, and transparency initiatives.",
+                "asset": {
+                    "media":"/img/mayor.jpg",
+                    "thumbnail":"/img/mayor.jpg"
+                }
+            },
+            {
+                "startDate": "2014,07,02",
+                "headline":"ED & IR Committee unanimously approves Open Data Policy",
+                "asset": {
+                    "media":"/img/approve.jpg",
+                    "thumbnail":"/img/approve.jpg"
+                }
+            },
+            {
+                "startDate": "2014,11,24",
+                "headline":"Select Chief Data Officer",
+                "text": "Maksim Pecherskiy hired as the first Chief Data Officer in the greater San Diego region.",
+                "asset": {
+                    "media":"/img/linkedinmrm.png",
+                    "thumbnail":"/img/linkedinmrm.png"
+                }
+            },
+            {
+                "startDate": "2014,12,16",
+                "headline":"Vote on Open Data Policy",
+                "text":"City Council unanimously adopts the first Open Data Policy in the City and the only one in the greater San Diego region.",
+                "asset": {
+                    "media":"/img/vote.jpg",
+                    "thumbnail":"/img/vote.jpg"
+                }
+            },
+            {
+                "startDate":"2015,01,01",
+                "endDate": "2015,03,31",
+                "headline":"Written Guidelines on Preparing Inventory of Public Data Sets.",
+                "text":"<p>CDO prepares guidelines to instruct departments how to conduct an initial inventory of data sets.</p>",
+                "asset": {
+                    "media":"/img/book.png",
+                    "thumbnail":"/img/book.png"
+                }
+            },
+            {
+                "startDate":"2015,04,01",
+                "endDate": "2015,07,01",
+                "headline":"Initial Data Inventory",
+                "text":"<p>The CDO assembles an initial inventory of data owned or managed by each department.</p>",
+                "asset": {
+                    "thumbnail":"/img/z.jpg",
+                    "media":"/img/z.jpg"
+                }
+            },
+            {
+                "startDate":"2015,04,01",
+                "endDate": "2015,07,01",
+                "headline":"Technical Guidelines",
+                "text":"<p>As the departments prepare their inventory, the CDO will issue the Technical Guidelines</p>",
+                "asset": {
+                  "media":"/img/icon_tech.png",
+                  "thumbnail":"/img/icon_tech.png"
+                }
+            },
+            {
+                "startDate":"2015,07,01",
+                "headline":"Initial Written Status Report",
+                "text":"<p>CDO submits a status report on the inventory process.</p>",
+                "asset": {
+                    "media":"/img/euro_gauges.jpg",
+                    "thumbnail":"/img/euro_gauges.jpg"
+                }
+            },
+            {
+                "startDate":"2015,09,01",
+                "headline":"Open Data Team Doubles",
+                "text":"<p>Performance & Analytics hires Andrell Bower as the City’s Open Data Coordinator.</p>",
+                "asset": {
+                    "media":"/img/andrell.jpg",
+                    "thumbnail":"/img/andrell.jpg"
+                }
+            },
+            {
+                "startDate":"2016,07,01",
+                "headline":"Begin Publishing Data Sets",
+                "text":"<p>Within 18 months of the Policy Effective Date, or by July 1, 2016, the City will begin to publish high value Public Data Sets to its portal. </p>",
+                "asset": {
+                    "media":"/img/data.jpg",
+                    "thumbnail":"/img/data.jpg"
+                }
+            },
+            {
+                "startDate":"2016,07,01",
+                "headline":"CDO Submits Compliance Plan",
+                "text":"<p>Within 18 Months of the effective date (July 1, 2016), CDO submits Compliance plan; Recur yearly on July 1.</p>",
+                "asset": {
+                    "media":"/img/gears.png",
+                    "thumbnail":"/img/gears.png"
+                }
+            },
+            {
+                "startDate":"2019,07,01",
+                "headline":"Open Data Policy Full Implementation.",
+                "asset": {
+                    "media":"/img/gears.png",
+                    "thumbnail":"/img/gears.png"
+                }
+            }
+
+
+
+        ]
+    }
+}
