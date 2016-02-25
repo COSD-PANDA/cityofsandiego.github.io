@@ -46,7 +46,7 @@
             },
             {
                 "startDate": "2013,11,06",
-                "headline": "IBA report on considerations of adoption an Open Data Policy.",
+                "headline": "IBA report on considerations of adopting an Open Data Policy.",
                 "text":"<p>Recommends forming an Open Data Advisory Group and quickly hiring a Chief Data Officer.</p><p>Estimates an investment range of $150,000 (minimum) to $1 Million (robust)</p>",
                 "asset": {
                     "media":"/img/iba.png",
@@ -183,7 +183,7 @@
                 }
             },
             {
-                "startDate":"2019,07,01",
+                "startDate":"2020,01,01",
                 "headline":"Open Data Policy Full Implementation.",
                 "asset": {
                     "media":"/img/gears.png",
