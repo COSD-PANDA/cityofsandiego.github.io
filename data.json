@@ -12,7 +12,7 @@
             {
                 "startDate": "2013,02,29",
                 "headline":"Craft beer with Ben and Friends",
-                "text":"Ben Katz hosts an after-hours meeting of local technologists and policy-makers to kick-off a conversation about bringing open data to San Diego",
+                "text":"Ben Katz hosts an after-hours meeting of local technologists and policy-makers to kick off a conversation about bringing open data to San Diego",
                 "asset": {
                     "media":"/img/beer.jpg",
                     "thumbnail":"/img/beer.jpg"
@@ -38,7 +38,7 @@
             {
                 "startDate": "2013,09,18",
                 "headline": "Draft Open Data Policy",
-                "text":"Councilman Kersey releases draft open data policy based on NYC's Policy.",
+                "text":"Councilman Mark Kersey releases draft open data policy based on NYC's Policy.",
                 "asset": {
                     "media":"/img/kersey.jpg",
                     "thumbnail":"/img/kersey.jpg"
@@ -47,7 +47,7 @@
             {
                 "startDate": "2013,11,06",
                 "headline": "IBA report on considerations of adopting an Open Data Policy.",
-                "text":"<p>Recommends forming an Open Data Advisory Group and quickly hiring a Chief Data Officer.</p><p>Estimates an investment range of $150,000 (minimum) to $1 Million (robust)</p>",
+                "text":"<p>Report recommends forming an Open Data Advisory Group and quickly hiring a Chief Data Officer and estimates an investment range of $150,000 (minimum) to $1 Million (robust)</p>",
                 "asset": {
                     "media":"/img/iba.png",
                     "thumbnail":"/img/iba.png"
@@ -65,7 +65,7 @@
             {
                 "startDate": "2014,01,10",
                 "headline": "Open Data Advisory Group.",
-                "text":"<p>Interim Mayor Todd Gloria forms group via memo. The group is led by Jeff Sturak, DCOO Internal Operations.</p><p>City staff member participants from Council Districts 1 and 5, IBA, City Attorney, City Clerk, DoIT, and the Mayor’s Office. </p><p>Public participants from Code for America, OpenSan Diego, Port of San Diego, and local technical experts</p>",
+                "text":"<p>Interim Mayor Todd Gloria forms group via memo. The group is led by Jeff Sturak, DCOO Internal Operations.</p><p>City staff member participants are from Council Districts 1 and 5, IBA, City Attorney, City Clerk, DoIT, and the Mayor’s Office. </p><p>Public participants are from Code for America, OpenSan Diego, Port of San Diego, and local technical experts</p>",
                 "asset": {
                     "media":"/img/dataweb.jpg",
                     "thumbnail":"/img/dataweb.jpg"
@@ -84,7 +84,7 @@
             {
                 "startDate": "2014,07,01",
                 "headline":"Mayor Faulconer creates the Performance and Analytics Department",
-                "text": "Mayor Faulconer creates the Performance & Analytics Department and taps Almis Udrys as its first Director to implement efficiency, accountability, and transparency initiatives.",
+                "text": "Mayor Faulconer creates the Performance & Analytics Department and taps Almis Udrys as its first director to implement efficiency, accountability, and transparency initiatives.",
                 "asset": {
                     "media":"/img/mayor.jpg",
                     "thumbnail":"/img/mayor.jpg"
@@ -140,7 +140,7 @@
                 "startDate":"2015,04,01",
                 "endDate": "2015,07,01",
                 "headline":"Technical Guidelines",
-                "text":"<p>As the departments prepare their inventory, the CDO will issue the Technical Guidelines</p>",
+                "text":"<p>As the departments prepare their inventory, the CDO issues the Technical Guidelines.</p>",
                 "asset": {
                   "media":"/img/icon_tech.png",
                   "thumbnail":"/img/icon_tech.png"
@@ -167,7 +167,7 @@
             {
                 "startDate":"2016,07,01",
                 "headline":"Begin Publishing Data Sets",
-                "text":"<p>Within 18 months of the Policy Effective Date, or by July 1, 2016, the City will begin to publish high value Public Data Sets to its portal. </p>",
+                "text":"<p>Within 18 months of the Policy Effective Date, or by July 1, 2016, the City will begin to publish high-value public datasets to its portal.</p>",
                 "asset": {
                     "media":"/img/data.jpg",
                     "thumbnail":"/img/data.jpg"
@@ -176,7 +176,7 @@
             {
                 "startDate":"2016,07,01",
                 "headline":"CDO Submits Compliance Plan",
-                "text":"<p>Within 18 Months of the effective date (July 1, 2016), CDO submits Compliance plan; Recur yearly on July 1.</p>",
+                "text":"<p>Within 18 months of the effective date (July 1, 2016), CDO submits Compliance plan; This recurs each July 1.</p>",
                 "asset": {
                     "media":"/img/gears.png",
                     "thumbnail":"/img/gears.png"
